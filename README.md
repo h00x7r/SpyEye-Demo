@@ -8,14 +8,12 @@
 
 1. **Launch SpyEye Demo**
    - Double click SpyEye-Demo.py
-   - Accept terms of use
 
 ## 🌟 Coming in Full Version
 - ⚡ Advanced scanning capabilities
 - 🎯 Custom exploit development
 - 📊 Professional reporting tools
 - 🔧 Premium technical support
-- 🎓 Advanced training modules
 
 ## 📞 Get Full Version
 Contact the developer:
