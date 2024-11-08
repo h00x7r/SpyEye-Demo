@@ -30,8 +30,6 @@ Contact the developer:
 
 ### Demo Limitations
 - Restricted scanning capabilities
-- Limited report generation
-- Demo watermarks on outputs
 
 ## 📈 Updates & Support
 - Regular security updates
@@ -39,7 +37,7 @@ Contact the developer:
 - Bug fixes and improvements
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 SpyEye Demo is for educational purposes only. Users are responsible for complying with applicable laws and regulations.
