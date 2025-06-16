@@ -19,7 +19,7 @@
 Contact the developer:
 - 📱 WhatsApp: +963960955844
 - 📸 Instagram: khalil_m_khalil09
-- 👥 Facebook: Khalil Mohmmad Khalil
+- 👥 Facebook: Khalil Mohammad Khalil
 
 ## 🔐 Security & Ethics
 
@@ -44,6 +44,6 @@ SpyEye Demo is for educational purposes only. Users are responsible for complyin
 
 ---
 
-  *Made with ❤️ by H00x7r - Khalil Mohmmad Khalil*
+  *Made with ❤️ by H00x7r - Khalil Mohammad Khalil*
   
   *Copyright © 2024 SpyEye. All rights reserved.*
